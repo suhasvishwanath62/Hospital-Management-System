@@ -10,7 +10,7 @@ MarkupSafe==1.1.1
 mysqlclient==2.0.1
 Naked==0.1.31
 packaging==20.4
-Pillow==7.1.1
+Pillow==10.3.0
 pipenv==2018.11.26
 pipwin==0.5.0
 pyttsx3==2.90
